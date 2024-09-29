@@ -1,0 +1,37 @@
+input[type=text]{
+    border: 2px solid black;
+    border-radius: 4px;
+    width: 30%;
+    padding:8px 16px;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: 1px;
+    border-radius:4px;
+    padding: 8px 16px;
+    margin: 4px 2px;
+    cursor:pointer;
+
+}
+body{
+background-image: url('https://i.pinimg.com/564x/c2/4e/55/c24e55fb54be858286b1f8d70a92e71c.jpg');
+    background-size: cover; /* This makes sure the image covers the entire background */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+    background-position: center; /* This centers the image */
+    text-align: center;
+    text-align: center
+}
+.resultTable{
+    display: inline-block;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.8); /* White background with 80% opacity */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: White; /* Adjust color based on your background image */
+    font-size: 36px;
+    margin-top: 20px;
+}
